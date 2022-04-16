@@ -1,0 +1,13 @@
+.container p{
+    background-color: blanchedalmond;
+    padding: 5px;
+    border: 1px;
+    border-radius: 4px;
+    text-align: center;
+    max-width: 40%;
+    margin: 5px auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.2em;
+    font-weight: 800;
+    color: rgb(143, 143, 143)
+}
